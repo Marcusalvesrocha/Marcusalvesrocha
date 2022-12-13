@@ -20,8 +20,8 @@
 ### Projeto Recente.....
 
 <p align="center">
-	<a href="https://vizinapp.herokuapp.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/code-folder.png"/></a> 
-### Vizinapp
+	<a href="https://vizinapp.herokuapp.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/96/null/code-folder.png"/>### Vizinapp</a> 
+
 </p>	
 ### Contatos.....
 
