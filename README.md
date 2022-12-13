@@ -15,3 +15,5 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/microsoft-sql-server.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/postgreesql.png"/>
 </p>
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{Marcusalvesrocha}/count.svg)
