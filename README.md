@@ -6,7 +6,7 @@
 - Eu sou **Desenvolvedor** | **Progrmador** | **Analista** **de** **Sistemas**
 - Sou desenvolvedor **Ruby** **on** **Rails**
 - Atualmente estou aprendendo **React** e **Flutter**
-- 
+
 ### Linguagens e Banco de dados....
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/ruby-programming-language.png"/>
