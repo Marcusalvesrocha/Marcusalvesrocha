@@ -1,6 +1,6 @@
 ## Olá, meu nome é Marcus Rocha
 <p align="center">
-<img width="20%" src="https://img.icons8.com/color/96/null/source-code.png"/>
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
 - Eu sou **Desenvolvedor** | **Progrmador** | **Analista**
