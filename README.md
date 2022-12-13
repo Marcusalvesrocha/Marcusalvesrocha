@@ -20,6 +20,7 @@
 ### Contatos.....
 
 <p align="center">
+	<a href="mailto:sif.marcusvinicius@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/gmail-new.png"/></a>
 	<a href="https://github.com/Marcusalvesrocha"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/github--v1.png"/></a>
 	<a href="https://www.linkedin.com/in/marcus-alves-rocha/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/color/480/null/linkedin-circled--v1.png"/></a>
 </p>
