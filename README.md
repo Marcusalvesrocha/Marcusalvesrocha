@@ -3,7 +3,7 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
-- Eu sou **Desenvolvedor** | **Progrmador** | **Analista** **de** **Sistemas**
+- Eu sou **Desenvolvedor** | **Programador** | **Analista** **de** **Sistemas**
 - Sou desenvolvedor **Ruby** **on** **Rails**
 - Atualmente estou aprendendo **React** e **Flutter**
 
